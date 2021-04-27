@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Azure
 - 📫 How to reach me zach@fauser.ca
-- Opensource is the future
+- My code is Open
 
 <!---
 Zfauser/Zfauser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
