@@ -1,3 +1,4 @@
+![alt text](https://zfauser.github.io/assets/ZF.png)
 Hey! i'm Zach! Welcome to my github page!
 <!---
 Zfauser/Zfauser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
