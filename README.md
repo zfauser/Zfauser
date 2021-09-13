@@ -5,3 +5,4 @@ Hey! i'm Zach! Welcome to my github page!
 Zfauser/Zfauser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+programming languages im ok at: bash, python, html
