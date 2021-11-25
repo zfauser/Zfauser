@@ -9,6 +9,6 @@ Programming languages: bash, python, html
 
 Learning: dart (flutter), css, javascript
 
-Certifications: Oracle Cloud Infrastructure Foundations 2021 Certified Associate
+Certifications: Oracle Cloud Infrastructure Foundations 2021 Certified Associate, IBM Cloud Essentials
 
 Currently studing for: Azure AZ-104
