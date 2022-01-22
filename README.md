@@ -12,3 +12,5 @@ Learning: dart (flutter), css, javascript
 Certifications: Oracle Cloud Infrastructure Foundations 2021 Certified Associate, IBM Cloud Essentials
 
 Currently studing for: Azure AZ-104
+
+`console.log('Bye for now!');
