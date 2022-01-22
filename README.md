@@ -13,4 +13,4 @@ Certifications: Oracle Cloud Infrastructure Foundations 2021 Certified Associate
 
 Currently studing for: Azure AZ-104
 
-`console.log('Bye for now!');
+`console.log('Bye for now!');`
