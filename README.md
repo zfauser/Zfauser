@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 Programming languages: bash, python, html
 
-Learning: dart (flutter), css, javascript
+Learning: dart (flutter), css, javascript, react
 
 Certifications: Oracle Cloud Infrastructure Foundations 2021 Certified Associate, IBM Cloud Essentials
 
