@@ -5,9 +5,9 @@ You can click the Preview link to take a look at your changes.
 --->
 [Check Out My Blue Themes for all major browsers and VS Code](https://zfauser.github.io/zachs-blue-theme/)
 
-Programming languages: bash, python, html, css
+Programming languages: bash, python, html, css (tailwind), javascript (jquery, react)
 
-Learning: dart (flutter), javascript, react
+Learning: dart (flutter)
 
 Certifications: Oracle Cloud Infrastructure Foundations 2021 Certified Associate, IBM Cloud Essentials
 
