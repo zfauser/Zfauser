@@ -15,6 +15,6 @@ Currently studing for: Azure AZ-104
 
 Personal Site: [zachfauser.com](https://zachfauser.com/)
 
-Finance/Banking Themed Wordle Clone: [bankle.vercel.app](https://bankle.vercel.app/)
+Finance/Banking Themed Wordle Clone: [bankle.zachfauser.com](https://bankle.zachfauser.com/)
 
 `console.log('Bye for now!');`
