@@ -3,6 +3,7 @@ Zfauser/Zfauser is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 **Hey! I'm Zach!**
+--
 
 [Check Out My Blue Themes for all major browsers and VS Code](https://zfauser.github.io/zachs-blue-theme/)
 
