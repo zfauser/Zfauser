@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 --
 [Check Out My Blue Themes for all major browsers and VS Code](https://zfauser.github.io/zachs-blue-theme/)
 
-Programming/Scripting languages: bash, python, html, css (tailwind), javascript (jquery, react, svelte), processing
+Programming/Scripting languages: bash, python, html, css (tailwind), javascript (jquery, react, svelte, p5.js), processing
 
 Learning: dart (flutter), sql, nosql
 
