@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 **Hey! I'm Zach!**
 --
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zfauser&show_icons=true&theme=onedark&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats-3zt7.vercel.app/api?username=zfauser&show_icons=true&theme=onedark&count_private=true)
 --
 [Check Out My Blue Themes for all major browsers and VS Code](https://zfauser.github.io/zachs-blue-theme/)
 
