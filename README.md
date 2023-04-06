@@ -5,6 +5,7 @@ You can click the Preview link to take a look at your changes.
 **Hey! I'm Zach!**
 --
 ![Zach's GitHub stats](https://github-readme-stats-zfauser.vercel.app/api?username=zfauser&show_icons=true&theme=onedark&count_private=true)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Zfauser/langs)](https://githubtrends.io)
 --
 [Check Out My Blue Themes for all major browsers and VS Code](https://zfauser.github.io/zachs-blue-theme/)
 
