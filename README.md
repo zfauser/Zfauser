@@ -9,6 +9,7 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats-zfauser.vercel.app/api/top-langs/?username=zfauser&langs_count=8&theme=onedark&count_private=true)
 
 --
+
 [Check Out My Blue Themes for all major browsers and VS Code](https://zfauser.github.io/zachs-blue-theme/)
 
 Programming/Scripting languages: Bash, Python, HTML, CSS, JavaScript, Processing
