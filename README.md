@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ![bannerZF](https://user-images.githubusercontent.com/19974370/232263915-afb64e71-b536-44a8-a1ff-14540a235c52.png)
 
-**Hey, I'm Zach!**
+**[@Zfauser](https://github.com/Zfauser)**
 --
 ![Zach's GitHub stats](https://github-readme-stats-zfauser.vercel.app/api?username=zfauser&show_icons=true&theme=transparent&count_private=true)
 
