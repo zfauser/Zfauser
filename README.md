@@ -21,5 +21,3 @@ Certifications: Oracle Cloud Infrastructure Foundations 2021 Certified Associate
 Currently studing for: Azure AZ-104
 
 Personal Site: [zachfauser.com](https://zachfauser.com/)
-
-Finance/Banking Themed Wordle Clone: [bankle.zachfauser.com](https://bankle.zachfauser.com/)
